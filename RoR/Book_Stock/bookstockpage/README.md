@@ -1,24 +1,8 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hi <br/>
+Book Stock Management has been created using 3 controllers<br/>
+First Controller book to handle all APIs related to book table in PostgreSQL<br/>
+Second Controller Search is to search specific book by its name.<br/>
+Third Controller Author is to search specific book by its author's name.<br/>
+List all books, ADD books, UPDATE book, VIEW individual book, DELETE a book - All these features added.<br/>
+Screenshots of commandline interface, database and POSTMAN is added for further reference<br/>
+API List document is uploaded<br/>
